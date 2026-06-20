@@ -1,0 +1,6 @@
+{
+  "name": "Stitch Design Studio",
+  "description": "Generate high-fidelity UI assets and component designs for WordPress themes inspired by modern design systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["image-generation"]
+}
